@@ -65,8 +65,3 @@ app.listen(process.env.PORT || port,()=>console.log('server is running on port 3
 
 
 
-// api key
-// 333278db54f4d7f5ae97bf2316ba31d7-us10
-
-// list id
-// 9616331974
